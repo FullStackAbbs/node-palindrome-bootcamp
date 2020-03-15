@@ -1,0 +1,42 @@
+body{
+  background-color: black;
+  font-family: 'Passion One', cursive;
+
+}
+
+h1{
+  color: white;
+  text-align: center;
+  display: block;
+  float: left;
+  width:100%;
+  font-size: 5rem;
+  letter-spacing: .1rem
+}
+
+input,button {
+  display: block;
+  float:left;
+  width: 60%;
+  margin: 3%;
+  margin-left: 20%;
+  height:100px;
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+
+}
+
+input{
+  color:black;
+  font-family: 'Passion One', cursive;
+
+}
+
+button{
+  color: black;
+  border-radius: 50%;
+  font-family: 'Passion One', cursive;
+
+
+}
